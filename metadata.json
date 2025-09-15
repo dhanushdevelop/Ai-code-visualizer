@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Code Visualizer",
+  "description": "An interactive web application that uses AI to analyze pasted code and generate a step-by-step visual explanation of its execution flow and logic.",
+  "requestFramePermissions": []
+}
